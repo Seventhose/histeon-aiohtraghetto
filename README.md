@@ -23,6 +23,10 @@ RWQSTenArP5FclHgI0qEErGDYUEQ6gL4cEhpgec49VKtqKfgl2TIAn5W
 
 Per verificare a mano: `minisign -Vm aiohtraghetto-X.Y.Z.zip -P RWQSTenArP5FclHgI0qEErGDYUEQ6gL4cEhpgec49VKtqKfgl2TIAn5W`.
 
+## Privacy
+
+Come il programma usa Google Drive e quali dati tocca: [PRIVACY.md](PRIVACY.md).
+
 ## Licenza e marchi
 
 Il plugin è GPL-3.0-or-later: il testo è in [LICENSE.txt](LICENSE.txt).
